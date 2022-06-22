@@ -1,1 +1,1 @@
-# polish-companies-bankruptcy
+# bankruptcy-prediction
